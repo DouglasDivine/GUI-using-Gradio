@@ -1,7 +1,5 @@
-scikeras
-feature-engine 
-hyperopt 
-hpsklearn 
-tune_sklearn 
-mlens 
-shap 
+gradio
+scikit-learn
+seaborn
+plotly
+pandas
